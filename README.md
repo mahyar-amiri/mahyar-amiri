@@ -40,9 +40,3 @@
 ## 📊 GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lordmahyar&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordmahyar&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<br/>
-
-## 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lordmahyar&repo=keras-visualizer&show_owner=true&theme=vue-dark&hide_border=true)](https://github.com/lordmahyar/keras-visualizer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lordmahyar&repo=django-star-rating-farsi&show_owner=true&theme=vue-dark&hide_border=true)](https://github.com/lordmahyar/django-star-rating-farsi)
