@@ -3,7 +3,6 @@
 ### Python Backend Developer
 
 ![Github All Contributors](https://img.shields.io/github/all-contributors/all-contributors/all-contributors)
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=lordmahyar&&style=flat)
 
 ## 💻 Tech Stack
@@ -31,6 +30,7 @@
 #### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 #### Single-Board Computers
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
