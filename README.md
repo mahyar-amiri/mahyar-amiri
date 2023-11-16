@@ -1,15 +1,13 @@
 # Hello World <img src="hand.webp" height="30px">
 
-### Python Backend Developer
-
 ## 📦 My Python Packages
 
 | Package                                                                          |                                            Version                                             |                                                             Stars                                                              |                                            Downloads                                            |
-|----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|
-| [keras-visualizer](https://github.com/mahyar-amiri/keras-visualizer)             |    ![Downloads](https://img.shields.io/pypi/v/keras-visualizer?label=%20&style=flat-square)    |    ![Downloads](https://img.shields.io/github/stars/mahyar-amiri/keras-visualizer?label=%20&color=yellow&style=flat-square)    |    ![Downloads](https://img.shields.io/pypi/dm/keras-visualizer?label=%20&style=flat-square)    |
-| [django-comment-system](https://github.com/mahyar-amiri/django-comment-system)   | ![Downloads](https://img.shields.io/pypi/v/django-comment-system?label=%20&style=flat-square)  | ![Downloads](https://img.shields.io/github/stars/mahyar-amiri/django-comment-system?label=%20&color=yellow&style=flat-square)  | ![Downloads](https://img.shields.io/pypi/dm/django-comment-system?label=%20&style=flat-square)  |
-| [django-rating-system](https://github.com/mahyar-amiri/django-rating-system)     |  ![Downloads](https://img.shields.io/pypi/v/django-rating-system?label=%20&style=flat-square)  |  ![Downloads](https://img.shields.io/github/stars/mahyar-amiri/django-rating-system?label=%20&color=yellow&style=flat-square)  |  ![Downloads](https://img.shields.io/pypi/dm/django-rating-system?label=%20&style=flat-square)  |
-| [django-reaction-system](https://github.com/mahyar-amiri/django-reaction-system) | ![Downloads](https://img.shields.io/pypi/v/django-reaction-system?label=%20&style=flat-square) | ![Downloads](https://img.shields.io/github/stars/mahyar-amiri/django-reaction-system?label=%20&color=yellow&style=flat-square) | ![Downloads](https://img.shields.io/pypi/dm/django-reaction-system?label=%20&style=flat-square) |
+| -------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
+| [keras-visualizer](https://github.com/mahyar-amiri/keras-visualizer)             |    ![Downloads](https://img.shields.io/pypi/v/keras-visualizer?label=%20&style=flat-square)    |    ![Downloads](https://img.shields.io/github/stars/mahyar-amiri/keras-visualizer?label=%20&color=yellow&style=flat-square)    | [![Downloads](https://static.pepy.tech/badge/keras-visualizer)](https://pepy.tech/project/keras-visualizer)    |
+| [django-comment-system](https://github.com/mahyar-amiri/django-comment-system)   | ![Downloads](https://img.shields.io/pypi/v/django-comment-system?label=%20&style=flat-square)  | ![Downloads](https://img.shields.io/github/stars/mahyar-amiri/django-comment-system?label=%20&color=yellow&style=flat-square)  | [![Downloads](https://static.pepy.tech/badge/django-comment-system)](https://pepy.tech/project/django-comment-system) |
+| [django-rating-system](https://github.com/mahyar-amiri/django-rating-system)     |  ![Downloads](https://img.shields.io/pypi/v/django-rating-system?label=%20&style=flat-square)  |  ![Downloads](https://img.shields.io/github/stars/mahyar-amiri/django-rating-system?label=%20&color=yellow&style=flat-square)  | [![Downloads](https://static.pepy.tech/badge/django-rating-system)](https://pepy.tech/project/django-rating-system) |
+| [django-reaction-system](https://github.com/mahyar-amiri/django-reaction-system) | ![Downloads](https://img.shields.io/pypi/v/django-reaction-system?label=%20&style=flat-square) | ![Downloads](https://img.shields.io/github/stars/mahyar-amiri/django-reaction-system?label=%20&color=yellow&style=flat-square) | [![Downloads](https://static.pepy.tech/badge/django-reaction-system)](https://pepy.tech/project/django-reaction-system) |
 
 [![keras-visualizer](https://github-readme-stats.vercel.app/api/pin/?username=mahyar-amiri&repo=keras-visualizer&theme=vue-dark&hide_border=true)](https://github.com/mahyar-amiri/keras-visualizer)
 
@@ -57,7 +55,7 @@
 
 <br/>
 
-## 📊 GitHub Stats :
+## 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahyar-amiri&theme=vue-dark&hide_border=true)
 <br/>
